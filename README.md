@@ -1,17 +1,32 @@
-# qiblahcompuss_app
+ Qibla Compass
 
-A new Flutter project.
+Qibla Compass is a Flutter-based mobile application that helps Muslims accurately find the direction of the Kaaba from anywhere in the world. The app uses the device's location and compass sensors to provide real-time Qibla direction with a simple and user-friendly interface.
 
-## Getting Started
+ Features
 
-This project is a starting point for a Flutter application.
+* Accurate Qibla direction detection
+* Real-time compass updates
+* Location-based calculations
+* Clean and easy-to-use UI
+* Fast and lightweight performance
+* Works on Android devices
 
-A few resources to get you started if this is your first Flutter project:
+ Technologies Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* Flutter
+* Dart
+* Geolocator
+* Flutter Qiblah
+* Android Location & Sensor APIs
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ Purpose
+
+This project was developed to provide a simple and reliable solution for finding the Qibla direction during daily prayers. It demonstrates the use of device sensors, geolocation services, and Flutter mobile app development.
+
+ Future Improvements
+
+* Prayer times integration
+* Islamic calendar support
+* Nearby mosque finder
+* Multiple language support
+* Dark mode
